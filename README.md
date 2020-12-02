@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on [**JSL Bot**](https://github.com/DiabolusGX/JSL)
 - 🌱 I’m currently learning **JavaScript & React.JS**
 - 💬 Ask me about : `Java`, `JavaScript`, `Life`.
-- 📫 How to reach me: [Discord](https://discord.com/) username : `DiabolusGX#3429`
+- 📫 How to reach me: [Discord](https://discordapp.com/users/454611998051794954/) username : `DiabolusGX#3429`
 - ⚡ Fun fact: *The first computer game was created in 1961.*
 
 -----
