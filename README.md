@@ -1,4 +1,6 @@
-<h3 align="center"> Hi there! My name is Ankit Malik 👋 <a href="https://www.linkedin.com/in/ankitmalik0320/"><img src="/images/linkedin.png" width="30px" height="30px"></a></h3>
+<h3 align="center"> Hi there! My name is Ankit Malik 👋 </h3>
+
+<p align="center"><a href="https://www.linkedin.com/in/ankitmalik0320/"><img src="/images/linkedin.png" width="30px" height="30px"></a></p>
 
 -----
 
