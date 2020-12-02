@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+-----
 
 - 🔭 I’m currently working on [**JSL Bot**](https://github.com/DiabolusGX/JSL)
 - 🌱 I’m currently learning **JavaScript & React.JS**
