@@ -8,6 +8,8 @@
 - 📫 How to reach me: [Discord](https://discord.com/) username : `DiabolusGX#3429`
 - ⚡ Fun fact: *The first computer game was created in 1961.*
 
+-----
+
 <!--- 
 - 😄 Pronouns: **He**
 - 👯 I’m looking to collaborate on ...
