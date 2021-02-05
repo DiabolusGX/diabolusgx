@@ -21,6 +21,6 @@
 #### My GitHub Stats
 <br>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiabolusGX&theme=radical&hide_langs_below=1&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiabolusGX&title_color=9580ff&icon_color=42b463&text_color=9f9f9f&bg_color=282a35&hide_langs_below=1&layout=compact" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DiabolusGX&show_icons=true&title_color=9580ff&icon_color=42b463&text_color=9f9f9f&bg_color=282a35" alt="Ankit Malik's github stats"/>
 </p>
