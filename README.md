@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on [**JSL Bot**](https://github.com/DiabolusGX/JSL)
 - 🌱 I’m currently learning **JavaScript & React.JS**
 - 💬 Ask me about : `Java`, `JavaScript`, `Life`.
-- 📫 How to reach me: [Discord](https://discordapp.com/users/454611998051794954/) username : `DiabolusGX#0320`
+- 📫 How to reach me: [Discord](https://discordapp.com/users/454611998051794954/) username : `${dev}#4592`
 - ⚡ Fun fact: *The first computer game was created in 1961.*
 
 -----
@@ -20,9 +20,7 @@
 
 #### My GitHub Stats
 <br>
-
-
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiabolusGX&theme=radical&hide_langs_below=1&layout=compact" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DiabolusGX&show_icons=true&theme=radical&line_height=21" alt="Ohidur's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DiabolusGX&show_icons=true&title_color=9580ff&icon_color=42b463&text_color=9f9f9f&bg_color=282a35" alt="Ankit Malik's github stats"/>
 </p>
