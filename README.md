@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ankitmalik0320/"><img src="/images/linkedin.png" width="30px" height="30px"></a>
-  <a href="https://discord.com/invite/8kdx63YsDf"><img src="/images/discord.png" width="30px" height="30px"></a>
+  <a href="https://discord.com/invite/8kdx63YsDf"><img src="/images/discord_logo.png" width="30px" height="30px"></a>
 </p>
 
 -----
