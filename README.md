@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on [**Booster Bot**](https://boosterbot.xyz)
 - 🌱 I’m currently learning **JavaScript & React.JS**
 - 💬 Ask me about : `Java`, `JavaScript`, `Life`.
-- 📫 How to reach me: [Discord](https://discord.com/invite/8kdx63YsDf) username : `${dev}#4592`
+- 📫 How to reach me: [Discord](https://discord.com/invite/8kdx63YsDf) username : `DiabolusGX#2000`
 - ⚡ Fun fact: *The first computer game was created in 1961.*
 
 -----
