@@ -1,4 +1,4 @@
-<img align="right" width="250" src="./images/spiderman.gif">
+<img align="right" width="200" src="./images/spiderman-round.gif">
 
 ### Hello there 👋
 
