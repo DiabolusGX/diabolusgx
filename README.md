@@ -1,25 +1,47 @@
-<h3 align="center"> Hi there! My name is Ankit Malik 👋 </h3>
+<img align="right" width="250" src="./images/pfp.png">
+
+### Hello there 👋
+
+**Passionate developer with competitive nature who loves to code.** <br />
+Currently final year computer science student looking for opportunities for
+Always learning new technologies and want to use my education & skills with other enthusiastic developers on a project with great vision that will benefit users on a large scale in their day-to-day lives.
+
+---
+
+#### Languages, Frameworks and Tools
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ankitmalik0320/"><img src="/images/linkedin.png" width="30px" height="30px"></a>  
-  <a href="https://discord.com/invite/8kdx63YsDf"><img src="/images/discord_logo.png" width="32px" height="32px"></a>
+  <img alt="Java" src="https://img.shields.io/badge/Java-282a35?style=for-the-badge&logo=java&logoColor=282a35&labelColor=9580ff" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-282a35?style=for-the-badge&logo=javascript&logoColor=282a35&labelColor=9580ff" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-282a35?style=for-the-badge&logo=html5&logoColor=282a35&labelColor=9580ff" />
+  <img alt="Node" src="https://img.shields.io/badge/Node.JS-282a35?style=for-the-badge&logo=node-dot-js&logoColor=282a35&labelColor=9580ff" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-282a35?style=for-the-badge&logo=MongoDB&logoColor=282a35&labelColor=9580ff" />
+  <br />
+  <img alt="Express.js" src="https://img.shields.io/badge/express.js-282a35?style=for-the-badge&logo=express&logoColor=282a35&labelColor=9580ff" />
+  <img alt="React" src="https://img.shields.io/badge/react-282a35?style=for-the-badge&logo=react&logoColor=282a35&labelColor=9580ff" />
+  <img alt="Redux" src="https://img.shields.io/badge/redux-282a35?style=for-the-badge&logo=redux&logoColor=282a35&labelColor=9580ff" />
+  <img alt="HTML5" src="https://img.shields.io/badge/html%205-282a35?style=for-the-badge&logo=html5&logoColor=282a35&labelColor=9580ff" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS%203-282a35?style=for-the-badge&logo=css3&logoColor=282a35&labelColor=9580ff" />
+  <img alt="SASS" src="https://img.shields.io/badge/SASS-282a35?style=for-the-badge&logo=sass&logoColor=282a35&labelColor=9580ff" />
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-282a35?style=for-the-badge&logo=tailwind-css&logoColor=282a35&labelColor=9580ff" />
+<!--   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-282a35?style=for-the-badge&logo=bootstrap&logoColor=282a35&labelColor=9580ff" /> -->
+  <br />
+  <img alt="Git" src="https://img.shields.io/badge/Git-282a35?style=for-the-badge&logo=Git&logoColor=282a35&labelColor=9580ff" />
+  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-282a35?style=for-the-badge&logo=Nginx&logoColor=282a35&labelColor=9580ff" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-282a35?style=for-the-badge&logo=Postman&logoColor=282a35&labelColor=9580ff" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-282a35?style=for-the-badge&logo=amazon-aws&logoColor=282a35&labelColor=9580ff" />
+  <img alt="Canva" src="https://img.shields.io/badge/Canva-282a35?style=for-the-badge&logo=Canva&logoColor=282a35&labelColor=9580ff" />
+  <img alt="Unity" src="https://img.shields.io/badge/Unity-282a35?style=for-the-badge&logo=Unity&logoColor=282a35&labelColor=9580ff" />
 </p>
 
------
-
-- 🔭 I’m currently working on [**Booster Bot**](https://boosterbot.xyz)
-- 🌱 I’m currently learning **JavaScript & React.JS**
-- 💬 Ask me about : `Java`, `JavaScript`, `Life`.
-- 📫 How to reach me: [Discord](https://discord.com/invite/8kdx63YsDf) username : `DiabolusGX#2000`
-- ⚡ Fun fact: *The first computer game was created in 1961.*
-
------
 
 <!--- 
 - 😄 Pronouns: **He**
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... 
 --->
+
+---
 
 #### My GitHub Stats
 <br>
