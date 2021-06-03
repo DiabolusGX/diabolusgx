@@ -1,4 +1,4 @@
-<img align="right" width="250" src="./images/pfp.png">
+<img align="right" width="250" src="./images/spiderman.gif">
 
 ### Hello there 👋
 
