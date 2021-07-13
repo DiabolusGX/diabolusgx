@@ -1,14 +1,21 @@
-<img align="right" width="200" src="./images/spiderman-round.gif">
-
 ### Hello there 👋
+
+<img align="right" width="200" src="./images/spiderman-round.gif">
 
 **Passionate developer with competitive nature who loves to code.** <br />
 Currently final year computer science student looking for opportunities for
 Always learning new technologies and want to use my education & skills with other enthusiastic developers on a project with great vision that will benefit users on a large scale in their day-to-day lives.
 
+
+🔗 [DEV Studios](https://boosterbot.xyz/support)
+
+<br />
+
 ---
 
-#### Languages, Frameworks and Tools
+### Languages, Frameworks and Tools
+
+<br />
 
 <p align="center">
   <img alt="Java" src="https://img.shields.io/badge/Java-282a35?style=for-the-badge&logo=java&logoColor=282a35&labelColor=9580ff" />
@@ -30,16 +37,11 @@ Always learning new technologies and want to use my education & skills with othe
   <img alt="Nginx" src="https://img.shields.io/badge/Nginx-282a35?style=for-the-badge&logo=Nginx&logoColor=282a35&labelColor=9580ff" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-282a35?style=for-the-badge&logo=Postman&logoColor=282a35&labelColor=9580ff" />
   <img alt="AWS" src="https://img.shields.io/badge/AWS-282a35?style=for-the-badge&logo=amazon-aws&logoColor=282a35&labelColor=9580ff" />
-  <img alt="Canva" src="https://img.shields.io/badge/Canva-282a35?style=for-the-badge&logo=Canva&logoColor=282a35&labelColor=9580ff" />
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-282a35?style=for-the-badge&logo=Figma&logoColor=282a35&labelColor=9580ff" />
   <img alt="Unity" src="https://img.shields.io/badge/Unity-282a35?style=for-the-badge&logo=Unity&logoColor=282a35&labelColor=9580ff" />
 </p>
 
-
-<!--- 
-- 😄 Pronouns: **He**
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... 
---->
+<br />
 
 ---
 
