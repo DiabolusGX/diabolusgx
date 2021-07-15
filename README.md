@@ -6,10 +6,11 @@
 Currently final year computer science student looking for opportunities for
 Always learning new technologies and want to use my education & skills with other enthusiastic developers on a project with great vision that will benefit users on a large scale in their day-to-day lives.
 
-
-🔗 [DEV Studios](https://boosterbot.xyz/support)
-
 <br />
+
+![](https://komarev.com/ghpvc/?username=diabolusgx&style=flat-square&color=9580ff) <br />
+🔗 [Dev Studios](https://boosterbot.xyz/support)
+<!-- <img src="https://img.shields.io/static/v1?logo=discord&label=&message=DEV%20Studios&logoColor=292A34&labelColor=9580ff&style=flat-square" alt="DEV Studios"> -->
 
 ---
 
@@ -50,3 +51,9 @@ Always learning new technologies and want to use my education & skills with othe
 
 |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiabolusGX&title_color=9580ff&icon_color=42b463&text_color=9f9f9f&bg_color=282a35&hide_langs_below=1&layout=compact"  width="500px"/>|<img align="center" src="https://github-readme-stats.vercel.app/api?username=DiabolusGX&show_icons=true&title_color=9580ff&icon_color=42b463&text_color=9f9f9f&bg_color=282a35" alt="Ankit Malik's github stats"  width="600px" />
 |---|---|
+
+
+<!-- #### Random Dev Joke
+<br>
+<img src = "https://readme-jokes.vercel.app/api?theme=material-palenight" />
+ -->
