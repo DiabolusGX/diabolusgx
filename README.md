@@ -1,6 +1,7 @@
 ### Hello there 👋
 
-<img align="right" width="200" src="./images/spiderman-round.gif">
+<!-- spiderman cartoon gif as thumbnail -->
+<!-- <img align="right" width="200" src="./images/spiderman-round.gif"> -->
 
 **Passionate developer with competitive nature who loves to code.** <br />
 Currently final year computer science student looking for opportunities for
@@ -8,7 +9,7 @@ Always learning new technologies and want to use my education & skills with othe
 
 <br />
 
-<!-- ![](https://komarev.com/ghpvc/?username=diabolusgx&style=flat-square&color=9580ff) <br /> -->
+![](https://komarev.com/ghpvc/?username=diabolusgx&style=flat-square&color=9580ff) <br />
 🔗 [Dev Studios](https://boosterbot.xyz/support)
 <!-- <img src="https://img.shields.io/static/v1?logo=discord&label=&message=DEV%20Studios&logoColor=292A34&labelColor=9580ff&style=flat-square" alt="DEV Studios"> -->
 
